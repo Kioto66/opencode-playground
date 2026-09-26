@@ -1,0 +1,26 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+
+# Logs and generated files
+*.log
+dist/
+build/
